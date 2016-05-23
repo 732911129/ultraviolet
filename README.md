@@ -1,5 +1,9 @@
 # ultraviolet
-Dosaygo Project 0 open-sourced components
+Dosaygo Project 0 ( ultraviolet project ) open-sourced components
+
+# name 
+
+ultraviolet - just beyond what most people can normally see
 
 # notice
 
