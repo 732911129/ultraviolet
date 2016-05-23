@@ -7,5 +7,5 @@ ultraviolet - just beyond what most people can normally see
 
 # notice
 
-The name "ultraviolet" as used for this software project is a service mark of dosaygo corporation.
+The name "ultraviolet" as used for this software project is a service mark of the dosaygo corporation.
 
